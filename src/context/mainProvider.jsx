@@ -14,7 +14,7 @@ const MainProvider = ({ children }) => {
     })
 
 
-    console.log("user vom MainProvider", user) ;
+    console.log("user vom MainProvider", user);
 
 
     return (
